@@ -2,7 +2,8 @@
     "name": "videostream",
     "version": "0.0.1",
     "dependencies": {
+        "express": "*",
         "socket.io": "*",
-        "express": "*"
+        "webpurify": "^2.1.0"
     }
 }
